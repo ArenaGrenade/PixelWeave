@@ -10,23 +10,32 @@ This is a project in development and the final result as planned is a real time 
 
 It is currently capable of producing the following basic renders and similar ones.
 
-### 1) A basic three sphere configuration with no camera effects
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=2>  
+                <img src="./renders/render-16012021-103649.png" alt="Three Spheres. Glass on the left. Simple Diffuse in the middle. Metallic on the right" />
+            </td>
+            <td>
+                <img src="./renders/render-17012021-120739.png" alt="Previous Figure ina different angle and with camera effects" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./renders/render-17012021-130539.png" alt="100 spheres with different qualities" />
+            </td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan=2><b>Fig:</b> Renders Produced by the Engine. Descriptions are in a clockwise fashion. A basic three sphere configuration with no camera effects. The same three sphere configuration with changeable camera position and Depth Of Field Effects. A randomly generated scene filled with 100 spheres with different material properties </td>
+        </tr>
+    </tfoot>
+</table>
 
-<p align="center">
-    <img src="./renders/render-16012021-103649.png" alt="Three Spheres. Glass on the left. Simple Diffuse in the middle. Metallic on the right" />
-</p>
+---
 
-### 2) The same three sphere configuration with changeable camera position and Depth Of Field Effects
-
-<p align="center">
-    <img src="./renders/render-17012021-120739.png" alt="Three Spheres. Glass on the left. Simple Diffuse in the middle. Metallic on the right" />
-</p>
-
-### 3) A randomly generated scene filled with 100 spheres with different material properties
-
-<p align="center">
-    <img src="./renders/render-17012021-130539.png" alt="Three Spheres. Glass on the left. Simple Diffuse in the middle. Metallic on the right" />
-</p>
+## Future Goals
 
 Clearly the above images are of not high quality. The reasons for them and future upgrades planned to combat it.
 
