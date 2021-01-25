@@ -13,16 +13,22 @@ It is currently capable of producing the following basic renders and similar one
 <table>
     <tbody>
         <tr>
-            <td rowspan=2>  
-                <img src="./renders/render-16012021-103649.png" alt="Three Spheres. Glass on the left. Simple Diffuse in the middle. Metallic on the right" />
+            <td rowspan=2>
+                <p align="center">
+                    <img src="./renders/render-16012021-103649.png" alt="Three Spheres. Glass on the left. Simple Diffuse in the middle. Metallic on the right" />
+                </p>
             </td>
             <td>
-                <img src="./renders/render-17012021-120739.png" alt="Previous Figure ina different angle and with camera effects" />
+                <p align="center">
+                    <img src="./renders/render-17012021-120739.png" alt="Previous Figure ina different angle and with camera effects" />
+                </p>
             </td>
         </tr>
         <tr>
             <td>
-                <img src="./renders/render-17012021-130539.png" alt="100 spheres with different qualities" />
+                <p align="center">
+                    <img src="./renders/render-17012021-130539.png" alt="100 spheres with different qualities" />
+                </p>
             </td>
         </tr>
     </tbody>
